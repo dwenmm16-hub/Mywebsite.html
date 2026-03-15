@@ -189,7 +189,7 @@ around the world while delivering excellent hospitality service.
 <footer>
 
 <p>
-Created by: <b>Rhode Valdez</b><br>
+Created by: <b>Rhode Christian B. Valdez</b><br>
 Section: CLHS101<br>
 Subject: Living in the IT Era
 </p>
